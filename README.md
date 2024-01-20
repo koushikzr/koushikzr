@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @koushikzr
-- 👀 I’m interested in Old ass music, and Front-end coding
-- 🌱 I’m currently learning Electric guitar and Javs Script
+- 👀 I’m interested in Old music, and software dev
+- 🌱 I’m currently learning Electric guitar , java and python 
 - 📫 How to reach me koushikzr@gmail.com
 
 <!---
